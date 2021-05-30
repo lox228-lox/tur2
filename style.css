@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    font-family: sans-serif;
+}
+ a {
+     text-decoration: none;
+     color: red;
+ }
+ a:hover {
+     color:blue;
+     
+ }
+.game {
+    display: inline-block;
+}
+.imd {
+    display: inline-block;
+}
+.link-header {
+    font-family: sans-serif;
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.link-header:hover {
+color:sandybrown;
+border: 2px solid gold;
+transition: all 1s linear;
+}
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+footer {
+    border-top: 4px solid goldenrod;
+    border-bottom: 4px solid goldenrod;
+}
